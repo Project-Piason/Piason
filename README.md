@@ -34,7 +34,7 @@ Découvrez PIASON, le jouet interactif sonore qui révolutionne l'apprentissage 
 
 ## Contribution
 
-Ce projet est le fruit d'une collaboration entre [@sylvainplaze](https://github.com/sylvainplaze), [@jonathanqueyroi](https://github.com/jonathanqueyroi), [@JeremyPhn](https://github.com/JeremyPhn) et Abir BOUDRAA. Pour contribuer ou suggérer des améliorations, veuillez nous contacter à sylvain.plaze.
+Ce projet est le fruit d'une collaboration entre [@sylvainplaze](https://github.com/sylvainplaze), [@jonathanqueyroi](https://github.com/jonathanqueyroi), [@JeremyPhn](https://github.com/JeremyPhn) et Abir BOUDRAA. Pour contribuer ou suggérer des améliorations, veuillez nous contacter à Sylvain.Plaze@etu.sorbonne-universite.fr.
 
 ## Licence
 
