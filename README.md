@@ -38,7 +38,7 @@ Ce projet est le fruit d'une collaboration entre [@sylvainplaze](https://github.
 
 ## Licence
 
-Ce projet est sous licence [Nom de la Licence]. Veuillez consulter le fichier LICENCE pour plus de détails.
+Ce projet est sous licence ouverte
 
 ## Auteurs
 
