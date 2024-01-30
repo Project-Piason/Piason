@@ -42,7 +42,7 @@ Ce projet est sous licence [Nom de la Licence]. Veuillez consulter le fichier LI
 
 ## Auteurs
 
-- Jonathan [Nom de Famille]
-- Sylvain [Nom de Famille]
-- Abir [Nom de Famille]
-- Jeremy [Nom de Famille]
+- Jonathan QUEYROI
+- Sylvain PLAZE
+- Abir BOUDRAA
+- Jeremy PHONCHARON
