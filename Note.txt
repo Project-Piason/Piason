@@ -1,2 +1,2 @@
 Mémoire I2C: https://www.mouser.fr/datasheet/2/268/24CS512_512_Kbit_3_4MHz_I2C_Serial_EEPROM_with_128-2907326.pdf
-Extention GPIO I2C: https://www.mouser.fr/datasheet/2/302/PCA9555-3139194.pdf
+Multiplexeur analogique CD74HC4067 : https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf
